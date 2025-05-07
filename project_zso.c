@@ -138,3 +138,8 @@ void project_zso(void) {
     }
 }
 
+int main() {
+    project_zso();
+    return 0;
+}
+

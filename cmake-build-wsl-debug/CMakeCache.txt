@@ -189,6 +189,9 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//No help, variable specified on the command line.
+DEBUG:UNINITIALIZED=ON
+
 //Value Computed by CMake
 ZSO_PR1_BINARY_DIR:STATIC=/mnt/c/C++/ZSO_PR1/cmake-build-wsl-debug
 

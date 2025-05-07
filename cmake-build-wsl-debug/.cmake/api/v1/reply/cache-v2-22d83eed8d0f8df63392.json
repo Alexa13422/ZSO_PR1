@@ -1018,6 +1018,18 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "ON"
+		},
+		{
 			"name" : "ZSO_PR1_BINARY_DIR",
 			"properties" : 
 			[
