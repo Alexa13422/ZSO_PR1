@@ -1,0 +1,3 @@
+/mnt/c/C++/ZSO_PR1/cmake-build-wsl-debug/CMakeFiles/ZSO_PR1.dir
+/mnt/c/C++/ZSO_PR1/cmake-build-wsl-debug/CMakeFiles/edit_cache.dir
+/mnt/c/C++/ZSO_PR1/cmake-build-wsl-debug/CMakeFiles/rebuild_cache.dir

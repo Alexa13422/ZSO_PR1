@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ZSO_PR1.dir/main.c.o CMakeFiles/ZSO_PR1.dir/project_zso.c.o -o ZSO_PR1  -lpthread 

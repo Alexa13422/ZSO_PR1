@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/C++/ZSO_PR1 -B /mnt/c/C++/ZSO_PR1/cmake-build-wsl-debug
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: /mnt/c/C++/ZSO_PR1/cmake-build-wsl-debug
